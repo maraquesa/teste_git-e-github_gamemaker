@@ -35,6 +35,7 @@
   "name":"teste_gitegithub",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprt_player","path":"sprites/sprt_player/sprt_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
